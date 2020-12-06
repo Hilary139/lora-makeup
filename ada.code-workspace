@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../welcome to mac"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "makeup ada",
+		"editor.fontSize": 14
+	}
+}
